@@ -1,0 +1,14 @@
+{ "type": "RESULT", "result": { "home_team": "Bayern", "away_team": "Barcelona", "home_score": 3, "away_score": 0  } }
+{ "type": "RESULT", "result": { "home_team": "Real", "away_team": "Milan", "home_score": 2, "away_score": 2  } }
+{ "type": "RESULT", "result": { "home_team": "Milan", "away_team": "Bayern", "home_score": 1, "away_score": 2  } }
+{ "type": "RESULT", "result": { "home_team": "Barcelona", "away_team": "Real", "home_score": 3, "away_score": 3  } }
+{ "type": "RESULT", "result": { "home_team": "Bayern", "away_team": "Real", "home_score": 2, "away_score": 4  } }
+{ "type": "GET_STATISTICS", "get_statistics": { "teams": ["Bayern", "Milan"] } }
+{ "type": "RESULT", "result": { "home_team": "Milan", "away_team": "Barcelona", "home_score": 1, "away_score": 4  } }
+{ "type": "RESULT", "result": { "home_team": "Barcelona", "away_team": "Milan", "home_score": 2, "away_score": 1  } }
+{ "type": "RESULT", "result": { "home_team": "Real", "away_team": "Bayern", "home_score": 2, "away_score": 2  } }
+{ "type": "RESULT", "result": { "home_team": "Real", "away_team": "Barcelona", "home_score": 6, "away_score": 1  } }
+{ "type": "RESULT", "result": { "home_team": "Bayern", "away_team": "Milan", "home_score": 3, "away_score": 1  } }
+{ "type": "RESULT", "result": { "home_team": "Milan", "away_team": "Real", "home_score": 2, "away_score": 3  } }
+{ "type": "RESULT", "result": { "home_team": "Barcelona", "away_team": "Bayern", "home_score": 1, "away_score": 1  } }
+{ "type": "GET_STATISTICS", "get_statistics": { "teams": ["Bayern", "Milan", "Real", "Barcelona"] } }
